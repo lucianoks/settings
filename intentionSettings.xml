@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Guice/Toggle Injection Required" />
+    <ignoreAction name="Java/Modifiers/Make Protected" />
+    <ignoreAction name="Java/Modifiers/Make Public" />
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
+  </component>
+</application>

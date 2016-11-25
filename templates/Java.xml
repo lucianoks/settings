@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="print" value="System.out.println($SELECTION$);" description="System.out.println();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
