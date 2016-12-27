@@ -3,12 +3,11 @@
     <property name="created">2016-11-23T16:16:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-11-25T13:56:03</property>
+    <property name="modified">2016-12-27T18:42:09</property>
     <property name="originalScheme">Ladies Night 2</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
